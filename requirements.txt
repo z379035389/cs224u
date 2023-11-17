@@ -13,4 +13,5 @@ datasets==2.10.1
 spacy==3.5.1
 dsp-ml==0.1.4
 openai==0.28.0
+datasets==2.14.7
 cohere
